@@ -1,0 +1,11 @@
+﻿nav.navbar{
+    margin-top:10px;
+}
+
+td, td > * {
+    vertical-align : middle !important;
+}
+
+#AudioManagement_Upload h1, #AudioManagement_Overview h1, h1{
+    font-size:20px;
+}
